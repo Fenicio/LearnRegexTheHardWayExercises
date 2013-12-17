@@ -1,0 +1,9 @@
+How to install Regetron in Cloud 9
+
+A. create a repo to hold all your stuff
+B. Clone it into cloud9
+C. In the console do the stuff that our dear teacher and overlord has already written:
+ - git clone git://gitorious.org/regetron/regetron.git
+ - cd regetron
+ - python setup.py install
+avoid the sudo as c9 dislikes it, and we want c9 happy.
